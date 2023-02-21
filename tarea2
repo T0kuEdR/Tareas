@@ -11,8 +11,9 @@ public class tarea2{
     System.out.println("Ingrese su nombre, profesion, pais");
      b = teclado.nextLine();
      a=b.split(" ");
+
     System.out.println("Nombre: "+ a[0]);
-    System.out.println("Profecion: "+ a[1]);
+    System.out.println("Profesion: "+ a[1]);
     System.out.println("Pais: "+ a[2]);
     }
 }
