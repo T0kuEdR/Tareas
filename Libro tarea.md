@@ -85,5 +85,14 @@ public class metodos{
          String q1 = "hola, ";
         q1+= "chao";
         System.out.println(q1);
+        
+        StringBuilder sb = new StringBulder();
+        sd.apped("hola, ");
+        sd.apped("chao");
+        System.out.println(sb);
+        
+        StringBuilder sb1 = new StringBuilder ("hola");
+        sb1.setCharAt (2, 'x');
+        System.out.println(sb1);
          }
 }
