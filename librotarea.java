@@ -1,7 +1,7 @@
 # Tareas
 Garcia Santiago Emiliano POO 2208 FESA
 
-public class metodos{
+public class librotarea{
 
     public static void main(String[] args){
         String s = "Hola";
