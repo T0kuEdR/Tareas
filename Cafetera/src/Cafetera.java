@@ -66,7 +66,7 @@ public class Cafetera {
                 System.out.println("Puede seguir sirviendo\n");
             }
             else {
-                System.out.println("Ya no suficientes recursos para otro\n");
+                System.out.println("Ya no hay suficientes recursos para otro\n");
             }
         }
         else {
@@ -83,7 +83,7 @@ public class Cafetera {
                 System.out.println("Puede seguir sirviendo\n");
             }
             else {
-                System.out.println("Ya no suficientes recursos para otro\n");
+                System.out.println("Ya no hay suficientes recursos para otro\n");
             }
         }
         else {
@@ -101,7 +101,7 @@ public class Cafetera {
                 System.out.println("Puede seguir sirviendo\n");
             }
             else {
-                System.out.println("Ya no suficientes recursos para otro\n");
+                System.out.println("Ya no hay suficientes recursos para otro\n");
             }
         }
         else{
